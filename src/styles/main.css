@@ -1,0 +1,10 @@
+/* body {
+    background-color: black;
+    color: green;
+} */
+#visited {
+    border: dashed red;
+}
+#notVisited {
+    border: solid green;
+}
